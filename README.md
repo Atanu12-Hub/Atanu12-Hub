@@ -165,8 +165,6 @@ Open To:
 
 </div>
 
-> Snake animation kaj korte hole pore GitHub Actions setup korte hobe. Ekhon section-ta thakuk, pore ami setup korte help korbo.
-
 ---
 
 # 🧠 Learning Roadmap
